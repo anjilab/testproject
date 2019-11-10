@@ -6,5 +6,5 @@ res.send('Hello world');
 })
 
 app.listen(7000,()=>{
-    console.log('listening to port 7000');
+    console.log('listening to port 7000 learning git and node');
 });
